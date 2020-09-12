@@ -1,1 +1,1 @@
-FCM server fro Exchanger application
+FCM server for Exchanger application
